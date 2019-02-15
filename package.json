@@ -2,9 +2,9 @@
   "name": "BearCraft",
   "version": "1.0.0",
   "description": "Vytvořil Smail",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.1.0",
